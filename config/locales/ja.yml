@@ -260,6 +260,8 @@ ja:
       change_owner_mail_content: 'リーダー権限があなたに渡されました'
       delete_agenda_mail_subject: 'アジェンダ削除のお知らせ'
       delete_agenda_mail_content: '貴方の所属するチームのアジェンダが削除されました'
+      change_owner_mail_subject: 'リーダー権限変更のお知らせ'
+      change_owner_mail_content: 'リーダー権限があなたに渡されました'
     button:
       submit: '投稿'
       edit: '編集'

@@ -227,6 +227,7 @@ ja:
       update_team: 'チーム更新に成功しました！'
       delete_team: 'チーム削除に成功しました！'
       update_profile: 'プロフィールを編集しました！'
+      change_owner: '権限を変更しました'
       complete_registration: '登録完了'
       edit_article: '記事を編集する'
       input_title: '記事タイトルを入力してください'
@@ -262,12 +263,15 @@ ja:
       change_owner_mail_content: 'リーダー権限があなたに渡されました'
       delete_agenda_mail_subject: 'アジェンダ削除のお知らせ'
       delete_agenda_mail_content: '貴方の所属するチームのアジェンダが削除されました'
+      change_owner_mail_subject: 'リーダー権限変更のお知らせ'
+      change_owner_mail_content: 'リーダー権限があなたに渡されました'
     button:
       submit: '投稿'
       edit: '編集'
       delete: '削除'
       create: '作成'
       invite: '招待'
+      change_owner: '権限移動'
     top:
       line1: 'このアプリケーションは、チームごと、議題ごとに別れて'
       line2: '特定のイシュー（議題）をメンバーで見やすく共有するためのアプリケーションです'
